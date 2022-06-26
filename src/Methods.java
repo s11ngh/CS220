@@ -3,7 +3,7 @@ import java.util.*;
 public class Methods {
 
     //String > Unique Username of the gamer
-    //ArrayList > Queue of KDAs in games
+    //Queue > Queue of KDAs in games
     HashMap<String, Queue<userKDA>> map = new HashMap<>();
 
     //these can generate
