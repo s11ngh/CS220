@@ -46,6 +46,11 @@ public class ManagementSys {
 
        return map.get(firstName);       //return addresses of people with that first name
     }
+    public void acceptFirst(int acceptances){ //accepts first x number of people 
+       for(int i=0; i<acceptances;i++){
+             decision(True); 
+       }
+    }
 
 }
 
