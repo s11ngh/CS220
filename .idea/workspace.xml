@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5921f9c7-063f-41d0-a648-15ffad101687" name="Changes" comment="" />
+    <list default="true" id="5921f9c7-063f-41d0-a648-15ffad101687" name="Changes" comment="second push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/Sudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$MyKeyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI$MyKeyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/SudokuGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/cs220-sudoku-main/knox/sudoku/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/knox/sudoku/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/knox/sudoku/Sudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/knox/sudoku/SudokuGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/knox/sudoku/SudokuGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/knox/sudoku/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/knox/sudoku/Util.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +31,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-18.0.1.1/Contents/Home/lib/src.zip!/java.base/java/lang/RuntimeException.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BAdOicS4Ykox5IOj7VECWtXmA9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,12 +54,13 @@
     "last_opened_file_path": "/Users/ujjwalsingh/Downloads/cs220-sudoku-main",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Sudoku" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="knox.sudoku.SudokuGUI" />
       <module name="cs220-sudoku-main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,6 +76,41 @@
       <option name="presentableId" value="Default" />
       <updated>1656352793712</updated>
     </task>
+    <task id="LOCAL-00001" summary="first push">
+      <created>1656370270353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656370270353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first push" />
+    <MESSAGE value="second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="second push" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/knox/sudoku/SudokuGUI.java</url>
+          <line>422</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
